@@ -21,6 +21,7 @@ import java.util.stream.Collectors;
 
 public class Solution2 {
     /*
+    方法： 制作出白名单并在其中随机选择
     预处理的时间复杂度为O(N)，超出题目限制
      */
 
