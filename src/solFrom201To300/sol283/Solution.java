@@ -12,7 +12,7 @@
  * 尽量减少操作次数。
  */
 
-package solFrom201To300;
+package solFrom201To300.sol283;
 
 class Solution {
     public void moveZeroes(int[] nums) {
