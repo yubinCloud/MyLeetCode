@@ -1,13 +1,73 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="CMakeRunConfigurationManager" shouldGenerate="true" shouldDeleteObsolete="true">
+    <generated />
+  </component>
+  <component name="CMakeSettings">
+    <configurations>
+      <configuration PROFILE_NAME="Debug" CONFIG_NAME="Debug" />
+    </configurations>
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="3e0a286b-46ed-4b32-804a-a49af3876a79" name="Default Changelist" comment="" />
+    <list default="true" id="3e0a286b-46ed-4b32-804a-a49af3876a79" name="Default Changelist" comment="finish sol 10">
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="ClangdSettings">
+    <option name="formatViaClangd" value="false" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
+    <excluded-from-favorite>
+      <branch-storage>
+        <map>
+          <entry type="LOCAL">
+            <value>
+              <list>
+                <branch-info repo="$PROJECT_DIR$" source="master" />
+              </list>
+            </value>
+          </entry>
+        </map>
+      </branch-storage>
+    </excluded-from-favorite>
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="yb" />
+      </map>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="MavenImportPreferences">
@@ -18,10 +78,108 @@
     </option>
   </component>
   <component name="ProjectId" id="1iApfOZrXj6izQoVjZBnIPphPkU" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
+    <property name="cf.first.check.clang-format" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors.Language Defaults" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="solFrom101To200.sol106" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RandomizedSet" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="solFrom301To400.sol380.RandomizedSet" />
+      <module name="MyLeetCode" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="solFrom301To400.sol380.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Solution (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="solFrom1To100.sol78.Solution" />
+      <module name="MyLeetCode" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="solFrom1To100.sol78.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Solution (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="solFrom1To100.sol10.Solution" />
+      <module name="MyLeetCode" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="solFrom1To100.sol10.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Solution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="solFrom1To100.sol56.Solution" />
+      <module name="MyLeetCode" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="solFrom1To100.sol56.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="solFrom1To100.sol78.Test" />
+      <module name="MyLeetCode" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="solFrom1To100.sol78.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" BundledDictionaries="0" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" Dictionaries="0" CorrectionsLimit="5" DefaultDictionary="application-level" UseSingleDictionary="true" />
+  <component name="SvnConfiguration">
+    <configuration />
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -30,7 +188,459 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1601360353635</updated>
+      <workItem from="1601360354690" duration="701000" />
+      <workItem from="1601380939803" duration="2825000" />
+      <workItem from="1601386357422" duration="1131000" />
+      <workItem from="1601420310143" duration="2210000" />
+      <workItem from="1601423575693" duration="361000" />
+      <workItem from="1601513294128" duration="1700000" />
+      <workItem from="1601540076991" duration="4377000" />
+      <workItem from="1601778427353" duration="1788000" />
+      <workItem from="1601816142381" duration="5300000" />
+      <workItem from="1601856844300" duration="3069000" />
+      <workItem from="1601954011451" duration="1147000" />
+      <workItem from="1601964144936" duration="1412000" />
+      <workItem from="1601980798209" duration="788000" />
+      <workItem from="1601989135541" duration="2907000" />
+      <workItem from="1602028762386" duration="1833000" />
+      <workItem from="1602066025932" duration="1974000" />
+      <workItem from="1602123813280" duration="1699000" />
+      <workItem from="1602469048432" duration="776000" />
+      <workItem from="1602499923672" duration="3866000" />
+      <workItem from="1602554453595" duration="3346000" />
+      <workItem from="1602567146341" duration="5254000" />
+      <workItem from="1602586527951" duration="2579000" />
+      <workItem from="1602980600373" duration="5587000" />
+      <workItem from="1603283335513" duration="96000" />
+      <workItem from="1603500768995" duration="640000" />
+      <workItem from="1603502091330" duration="93000" />
     </task>
+    <task id="LOCAL-00001" summary="move .idea from .gitignore">
+      <created>1601360404789</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1601360404789</updated>
+    </task>
+    <task id="LOCAL-00002" summary="add IntelliJ Idea setting file">
+      <created>1601360430584</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1601360430584</updated>
+    </task>
+    <task id="LOCAL-00003" summary="update README.md">
+      <created>1601360562253</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1601360562253</updated>
+    </task>
+    <task id="LOCAL-00004" summary="完成sol10：正则表达式的匹配问题">
+      <created>1601360985355</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1601360985355</updated>
+    </task>
+    <task id="LOCAL-00005" summary="finish sol380: 常数时间插入、删除和获取随机元素">
+      <created>1601384612369</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1601384612369</updated>
+    </task>
+    <task id="LOCAL-00006" summary="完成sol710，但第一种解法超出内存限制">
+      <created>1601422424580</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1601422424580</updated>
+    </task>
+    <task id="LOCAL-00007" summary="添加了方法说明">
+      <created>1601422501955</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1601422501955</updated>
+    </task>
+    <task id="LOCAL-00008" summary="update README.md">
+      <created>1601423782866</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1601423782867</updated>
+    </task>
+    <task id="LOCAL-00009" summary="finish sol 1288">
+      <created>1601514972413</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1601514972413</updated>
+    </task>
+    <task id="LOCAL-00010" summary="优化了 sol 56 的过程">
+      <created>1601543985414</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1601543985414</updated>
+    </task>
+    <task id="LOCAL-00011" summary="update README.md">
+      <created>1601544384698</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1601544384698</updated>
+    </task>
+    <task id="LOCAL-00012" summary="增加了一些注释">
+      <created>1601544396903</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1601544396903</updated>
+    </task>
+    <task id="LOCAL-00013" summary="finish sol 986">
+      <created>1601779897833</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1601779897833</updated>
+    </task>
+    <task id="LOCAL-00014" summary="update README.md">
+      <created>1601779956484</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1601779956484</updated>
+    </task>
+    <task id="LOCAL-00015" summary="finish sol26">
+      <created>1601816966466</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1601816966466</updated>
+    </task>
+    <task id="LOCAL-00016" summary="finish sol83">
+      <created>1601817661772</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1601817661772</updated>
+    </task>
+    <task id="LOCAL-00017" summary="finish sol27">
+      <created>1601818693656</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1601818693656</updated>
+    </task>
+    <task id="LOCAL-00018" summary="finish sol283">
+      <created>1601819206332</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1601819206332</updated>
+    </task>
+    <task id="LOCAL-00019" summary="finish sol20">
+      <created>1601821303746</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1601821303746</updated>
+    </task>
+    <task id="LOCAL-00020" summary="finish sol 921">
+      <created>1601857358105</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1601857358105</updated>
+    </task>
+    <task id="LOCAL-00021" summary="finish sol 1541">
+      <created>1601859305341</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1601859305341</updated>
+    </task>
+    <task id="LOCAL-00022" summary="添加了题目注释">
+      <created>1601859345260</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1601859345260</updated>
+    </task>
+    <task id="LOCAL-00023" summary="将283的题解放入专门的sol283 package中">
+      <created>1601954077797</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1601954077797</updated>
+    </task>
+    <task id="LOCAL-00024" summary="finish sol 226">
+      <created>1601964514156</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1601964514156</updated>
+    </task>
+    <task id="LOCAL-00025" summary="update README.md">
+      <created>1601964557139</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1601964557139</updated>
+    </task>
+    <task id="LOCAL-00026" summary="finish sol 116">
+      <created>1601981472910</created>
+      <option name="number" value="00026" />
+      <option name="presentableId" value="LOCAL-00026" />
+      <option name="project" value="LOCAL" />
+      <updated>1601981472910</updated>
+    </task>
+    <task id="LOCAL-00027" summary="finish sol 114">
+      <created>1601990756704</created>
+      <option name="number" value="00027" />
+      <option name="presentableId" value="LOCAL-00027" />
+      <option name="project" value="LOCAL" />
+      <updated>1601990756704</updated>
+    </task>
+    <task id="LOCAL-00028" summary="update README.md">
+      <created>1601990829761</created>
+      <option name="number" value="00028" />
+      <option name="presentableId" value="LOCAL-00028" />
+      <option name="project" value="LOCAL" />
+      <updated>1601990829761</updated>
+    </task>
+    <task id="LOCAL-00029" summary="修改了README.md中的一个小错误">
+      <created>1602029634375</created>
+      <option name="number" value="00029" />
+      <option name="presentableId" value="LOCAL-00029" />
+      <option name="project" value="LOCAL" />
+      <updated>1602029634375</updated>
+    </task>
+    <task id="LOCAL-00030" summary="finish sol 654">
+      <created>1602029834361</created>
+      <option name="number" value="00030" />
+      <option name="presentableId" value="LOCAL-00030" />
+      <option name="project" value="LOCAL" />
+      <updated>1602029834361</updated>
+    </task>
+    <task id="LOCAL-00031" summary="修正了README.md中的一个小格式错误">
+      <created>1602029958053</created>
+      <option name="number" value="00031" />
+      <option name="presentableId" value="LOCAL-00031" />
+      <option name="project" value="LOCAL" />
+      <updated>1602029958053</updated>
+    </task>
+    <task id="LOCAL-00032" summary="finish sol 105">
+      <created>1602067660773</created>
+      <option name="number" value="00032" />
+      <option name="presentableId" value="LOCAL-00032" />
+      <option name="project" value="LOCAL" />
+      <updated>1602067660773</updated>
+    </task>
+    <task id="LOCAL-00033" summary="finish sol 106">
+      <created>1602124793808</created>
+      <option name="number" value="00033" />
+      <option name="presentableId" value="LOCAL-00033" />
+      <option name="project" value="LOCAL" />
+      <updated>1602124793808</updated>
+    </task>
+    <task id="LOCAL-00034" summary="finish sol 295">
+      <created>1602469814350</created>
+      <option name="number" value="00034" />
+      <option name="presentableId" value="LOCAL-00034" />
+      <option name="project" value="LOCAL" />
+      <updated>1602469814350</updated>
+    </task>
+    <task id="LOCAL-00035" summary="finish sol 78">
+      <created>1602503764543</created>
+      <option name="number" value="00035" />
+      <option name="presentableId" value="LOCAL-00035" />
+      <option name="project" value="LOCAL" />
+      <updated>1602503764543</updated>
+    </task>
+    <task id="LOCAL-00036" summary="finish sol 77">
+      <created>1602555913708</created>
+      <option name="number" value="00036" />
+      <option name="presentableId" value="LOCAL-00036" />
+      <option name="project" value="LOCAL" />
+      <updated>1602555913708</updated>
+    </task>
+    <task id="LOCAL-00037" summary="finish sol 48">
+      <created>1602557194872</created>
+      <option name="number" value="00037" />
+      <option name="presentableId" value="LOCAL-00037" />
+      <option name="project" value="LOCAL" />
+      <updated>1602557194872</updated>
+    </task>
+    <task id="LOCAL-00038" summary="finish sol 46">
+      <created>1602557210147</created>
+      <option name="number" value="00038" />
+      <option name="presentableId" value="LOCAL-00038" />
+      <option name="project" value="LOCAL" />
+      <updated>1602557210147</updated>
+    </task>
+    <task id="LOCAL-00039" summary="finish sol 652">
+      <created>1602568988291</created>
+      <option name="number" value="00039" />
+      <option name="presentableId" value="LOCAL-00039" />
+      <option name="project" value="LOCAL" />
+      <updated>1602568988291</updated>
+    </task>
+    <task id="LOCAL-00040" summary="finish sol 22">
+      <created>1602574822826</created>
+      <option name="number" value="00040" />
+      <option name="presentableId" value="LOCAL-00040" />
+      <option name="project" value="LOCAL" />
+      <updated>1602574822826</updated>
+    </task>
+    <task id="LOCAL-00041" summary="finish sol 1109">
+      <created>1602588520065</created>
+      <option name="number" value="00041" />
+      <option name="presentableId" value="LOCAL-00041" />
+      <option name="project" value="LOCAL" />
+      <updated>1602588520065</updated>
+    </task>
+    <task id="LOCAL-00042" summary="finish sol 10">
+      <created>1602986546803</created>
+      <option name="number" value="00042" />
+      <option name="presentableId" value="LOCAL-00042" />
+      <option name="project" value="LOCAL" />
+      <updated>1602986546803</updated>
+    </task>
+    <option name="localTasksCounter" value="43" />
     <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="finish sol283" />
+    <MESSAGE value="finish sol20" />
+    <MESSAGE value="补充了部分注释" />
+    <MESSAGE value="finish sol 921" />
+    <MESSAGE value="finish sol 1541" />
+    <MESSAGE value="添加了题目注释" />
+    <MESSAGE value="将283的题解放入专门的sol283 package中" />
+    <MESSAGE value="finish sol 226" />
+    <MESSAGE value="finish sol 116" />
+    <MESSAGE value="finish sol 114" />
+    <MESSAGE value="update README.md" />
+    <MESSAGE value="修改了README.md中的一个小错误" />
+    <MESSAGE value="finish sol 654" />
+    <MESSAGE value="修正了README.md中的一个小格式错误" />
+    <MESSAGE value="finish sol 105" />
+    <MESSAGE value="finish sol 106" />
+    <MESSAGE value="finish sol 295" />
+    <MESSAGE value="finish sol 78" />
+    <MESSAGE value="finish sol 77" />
+    <MESSAGE value="finish sol 48" />
+    <MESSAGE value="finish sol 46" />
+    <MESSAGE value="finish sol 652" />
+    <MESSAGE value="finish sol 22" />
+    <MESSAGE value="finish sol 1109" />
+    <MESSAGE value="finish sol 10" />
+    <option name="LAST_COMMIT_MESSAGE" value="finish sol 10" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="249" y="0" key="#Project_Structure" timestamp="1601360616425">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="249" y="0" key="#Project_Structure/0.0.1536.834/-1920.0.1920.1050@0.0.1536.834" timestamp="1601360616425" />
+    <state x="574" y="123" key="#com.intellij.ide.util.MemberChooser" timestamp="1602984467112">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="574" y="123" key="#com.intellij.ide.util.MemberChooser/0.0.1536.834/-1920.0.1920.1050@0.0.1536.834" timestamp="1602984467112" />
+    <state x="548" y="323" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.packages" timestamp="1601816736270">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="548" y="323" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.packages/0.0.1536.834@0.0.1536.834" timestamp="1601816736270" />
+    <state x="899" y="137" key="#xdebugger.evaluate" timestamp="1602502378938">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="899" y="137" key="#xdebugger.evaluate/0.0.1536.834@0.0.1536.834" timestamp="1602502378938" />
+    <state x="431" y="0" key="CommitChangelistDialog2" timestamp="1601360980248">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="431" y="0" key="CommitChangelistDialog2/0.0.1536.834/-1920.0.1920.1050@0.0.1536.834" timestamp="1601360980248" />
+    <state x="-1207" y="217" key="FileChooserDialogImpl" timestamp="1603502181959">
+      <screen x="-1920" y="0" width="1920" height="1050" />
+    </state>
+    <state x="-1207" y="217" key="FileChooserDialogImpl/0.0.1536.834/-1920.0.1920.1050@-1920.0.1920.1050" timestamp="1603502181959" />
+    <state x="570" y="172" key="FileChooserDialogImpl/0.0.1536.834@0.0.1536.834" timestamp="1601989640079" />
+    <state width="1492" height="229" key="GridCell.Tab.0.bottom" timestamp="1602986577767">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1492" height="229" key="GridCell.Tab.0.bottom/0.0.1536.834/-1920.0.1920.1050@0.0.1536.834" timestamp="1602986577767" />
+    <state width="1492" height="212" key="GridCell.Tab.0.bottom/0.0.1536.834@0.0.1536.834" timestamp="1602503792603" />
+    <state width="1492" height="229" key="GridCell.Tab.0.center" timestamp="1602986577767">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1492" height="229" key="GridCell.Tab.0.center/0.0.1536.834/-1920.0.1920.1050@0.0.1536.834" timestamp="1602986577767" />
+    <state width="1492" height="212" key="GridCell.Tab.0.center/0.0.1536.834@0.0.1536.834" timestamp="1602503792603" />
+    <state width="1492" height="229" key="GridCell.Tab.0.left" timestamp="1602986577767">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1492" height="229" key="GridCell.Tab.0.left/0.0.1536.834/-1920.0.1920.1050@0.0.1536.834" timestamp="1602986577767" />
+    <state width="1492" height="212" key="GridCell.Tab.0.left/0.0.1536.834@0.0.1536.834" timestamp="1602503792603" />
+    <state width="1492" height="229" key="GridCell.Tab.0.right" timestamp="1602986577767">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1492" height="229" key="GridCell.Tab.0.right/0.0.1536.834/-1920.0.1920.1050@0.0.1536.834" timestamp="1602986577767" />
+    <state width="1492" height="212" key="GridCell.Tab.0.right/0.0.1536.834@0.0.1536.834" timestamp="1602503792603" />
+    <state width="1492" height="212" key="GridCell.Tab.1.bottom" timestamp="1602503792603">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1492" height="212" key="GridCell.Tab.1.bottom/0.0.1536.834@0.0.1536.834" timestamp="1602503792603" />
+    <state width="1492" height="212" key="GridCell.Tab.1.center" timestamp="1602503792603">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1492" height="212" key="GridCell.Tab.1.center/0.0.1536.834@0.0.1536.834" timestamp="1602503792603" />
+    <state width="1492" height="212" key="GridCell.Tab.1.left" timestamp="1602503792603">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1492" height="212" key="GridCell.Tab.1.left/0.0.1536.834@0.0.1536.834" timestamp="1602503792603" />
+    <state width="1492" height="212" key="GridCell.Tab.1.right" timestamp="1602503792603">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1492" height="212" key="GridCell.Tab.1.right/0.0.1536.834@0.0.1536.834" timestamp="1602503792603" />
+    <state x="553" y="119" key="RollbackChangesDialog" timestamp="1603283411895">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="553" y="119" key="RollbackChangesDialog/0.0.1536.834/-1920.0.1920.1050@0.0.1536.834" timestamp="1603283411895" />
+    <state x="553" y="119" key="RollbackChangesDialog/0.0.1536.834@0.0.1536.834" timestamp="1602557206305" />
+    <state x="-1558" y="179" key="SettingsEditor" timestamp="1602067950968">
+      <screen x="-1920" y="0" width="1920" height="1050" />
+    </state>
+    <state x="-1558" y="179" key="SettingsEditor/0.0.1536.834/-1920.0.1920.1050@-1920.0.1920.1050" timestamp="1602067950968" />
+    <state x="270" y="62" key="SettingsEditor/0.0.1536.834/-1920.0.1920.1050@0.0.1536.834" timestamp="1601360942812" />
+    <state x="270" y="0" key="SettingsEditor/0.0.1536.834@0.0.1536.834" timestamp="1601989858351" />
+    <state x="361" y="150" key="Vcs.Push.Dialog.v2" timestamp="1602986554220">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="-1469" y="189" key="Vcs.Push.Dialog.v2/0.0.1536.834/-1920.0.1920.1050@-1920.0.1920.1050" timestamp="1602469819230" />
+    <state x="361" y="150" key="Vcs.Push.Dialog.v2/0.0.1536.834/-1920.0.1920.1050@0.0.1536.834" timestamp="1602986554220" />
+    <state x="361" y="150" key="Vcs.Push.Dialog.v2/0.0.1536.834@0.0.1536.834" timestamp="1602557407226" />
+    <state x="464" y="163" key="refactoring.ChangeSignatureDialog" timestamp="1602587745021">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="464" y="163" key="refactoring.ChangeSignatureDialog/0.0.1536.834/-1920.0.1920.1050@0.0.1536.834" timestamp="1602587745021" />
+    <state x="431" y="155" width="672" height="678" key="search.everywhere.popup" timestamp="1602568318177">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="431" y="155" width="672" height="678" key="search.everywhere.popup/0.0.1536.834@0.0.1536.834" timestamp="1602568318177" />
   </component>
 </project>
