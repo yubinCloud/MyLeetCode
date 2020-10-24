@@ -1,5 +1,5 @@
 # MyLeetCode
-练习LeetCode的代码仓库，主要基于Java 8平台编写
+练习LeetCode的代码仓库，主要使用Java语言编写，部分采用C/C++完成
 
 ## 进度表
 
