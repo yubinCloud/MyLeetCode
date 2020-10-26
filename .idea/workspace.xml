@@ -30,7 +30,7 @@
     </configurations>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3e0a286b-46ed-4b32-804a-a49af3876a79" name="Default Changelist" comment="finish sol 10">
+    <list default="true" id="3e0a286b-46ed-4b32-804a-a49af3876a79" name="Default Changelist" comment="增加了.gitignore 对.idea 和 cmake 配置文件的忽略">
       <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
@@ -92,7 +92,7 @@
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors.Language Defaults" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
   <component name="RecentsManager">
     <key name="CopyClassDialog.RECENTS_KEY">
@@ -214,6 +214,8 @@
       <workItem from="1603283335513" duration="96000" />
       <workItem from="1603500768995" duration="640000" />
       <workItem from="1603502091330" duration="93000" />
+      <workItem from="1603502737855" duration="485000" />
+      <workItem from="1603686919738" duration="452000" />
     </task>
     <task id="LOCAL-00001" summary="move .idea from .gitignore">
       <created>1601360404789</created>
@@ -509,7 +511,28 @@
       <option name="project" value="LOCAL" />
       <updated>1602986546803</updated>
     </task>
-    <option name="localTasksCounter" value="43" />
+    <task id="LOCAL-00043" summary="update README.md">
+      <created>1603502818993</created>
+      <option name="number" value="00043" />
+      <option name="presentableId" value="LOCAL-00043" />
+      <option name="project" value="LOCAL" />
+      <updated>1603502818993</updated>
+    </task>
+    <task id="LOCAL-00044" summary="增加了.gitignore 对.idea 和 cmake 配置文件的忽略">
+      <created>1603503039649</created>
+      <option name="number" value="00044" />
+      <option name="presentableId" value="LOCAL-00044" />
+      <option name="project" value="LOCAL" />
+      <updated>1603503039649</updated>
+    </task>
+    <task id="LOCAL-00045" summary="update README.md">
+      <created>1603503188833</created>
+      <option name="number" value="00045" />
+      <option name="presentableId" value="LOCAL-00045" />
+      <option name="project" value="LOCAL" />
+      <updated>1603503188833</updated>
+    </task>
+    <option name="localTasksCounter" value="46" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -528,7 +551,6 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="finish sol283" />
     <MESSAGE value="finish sol20" />
     <MESSAGE value="补充了部分注释" />
     <MESSAGE value="finish sol 921" />
@@ -538,7 +560,6 @@
     <MESSAGE value="finish sol 226" />
     <MESSAGE value="finish sol 116" />
     <MESSAGE value="finish sol 114" />
-    <MESSAGE value="update README.md" />
     <MESSAGE value="修改了README.md中的一个小错误" />
     <MESSAGE value="finish sol 654" />
     <MESSAGE value="修正了README.md中的一个小格式错误" />
@@ -553,7 +574,9 @@
     <MESSAGE value="finish sol 22" />
     <MESSAGE value="finish sol 1109" />
     <MESSAGE value="finish sol 10" />
-    <option name="LAST_COMMIT_MESSAGE" value="finish sol 10" />
+    <MESSAGE value="增加了.gitignore 对.idea 和 cmake 配置文件的忽略" />
+    <MESSAGE value="update README.md" />
+    <option name="LAST_COMMIT_MESSAGE" value="update README.md" />
   </component>
   <component name="WindowStateProjectService">
     <state x="249" y="0" key="#Project_Structure" timestamp="1601360616425">
@@ -572,10 +595,15 @@
       <screen x="0" y="0" width="1536" height="834" />
     </state>
     <state x="899" y="137" key="#xdebugger.evaluate/0.0.1536.834@0.0.1536.834" timestamp="1602502378938" />
-    <state x="431" y="0" key="CommitChangelistDialog2" timestamp="1601360980248">
-      <screen x="0" y="0" width="1536" height="834" />
+    <state x="-1381" y="0" key="CommitChangelistDialog2" timestamp="1603503188157">
+      <screen x="-1920" y="0" width="1920" height="1050" />
     </state>
+    <state x="-1381" y="0" key="CommitChangelistDialog2/0.0.1536.834/-1920.0.1920.1050@-1920.0.1920.1050" timestamp="1603503188157" />
     <state x="431" y="0" key="CommitChangelistDialog2/0.0.1536.834/-1920.0.1920.1050@0.0.1536.834" timestamp="1601360980248" />
+    <state x="-1601" y="82" key="DiffContextDialog" timestamp="1603502795881">
+      <screen x="-1920" y="0" width="1920" height="1050" />
+    </state>
+    <state x="-1601" y="82" key="DiffContextDialog/0.0.1536.834/-1920.0.1920.1050@-1920.0.1920.1050" timestamp="1603502795881" />
     <state x="-1207" y="217" key="FileChooserDialogImpl" timestamp="1603502181959">
       <screen x="-1920" y="0" width="1920" height="1050" />
     </state>
@@ -617,21 +645,22 @@
       <screen x="0" y="0" width="1536" height="834" />
     </state>
     <state width="1492" height="212" key="GridCell.Tab.1.right/0.0.1536.834@0.0.1536.834" timestamp="1602503792603" />
-    <state x="553" y="119" key="RollbackChangesDialog" timestamp="1603283411895">
-      <screen x="0" y="0" width="1536" height="834" />
-    </state>
-    <state x="553" y="119" key="RollbackChangesDialog/0.0.1536.834/-1920.0.1920.1050@0.0.1536.834" timestamp="1603283411895" />
-    <state x="553" y="119" key="RollbackChangesDialog/0.0.1536.834@0.0.1536.834" timestamp="1602557206305" />
-    <state x="-1558" y="179" key="SettingsEditor" timestamp="1602067950968">
+    <state x="-1229" y="150" key="RollbackChangesDialog" timestamp="1603502938547">
       <screen x="-1920" y="0" width="1920" height="1050" />
     </state>
-    <state x="-1558" y="179" key="SettingsEditor/0.0.1536.834/-1920.0.1920.1050@-1920.0.1920.1050" timestamp="1602067950968" />
+    <state x="-1229" y="150" key="RollbackChangesDialog/0.0.1536.834/-1920.0.1920.1050@-1920.0.1920.1050" timestamp="1603502938547" />
+    <state x="553" y="119" key="RollbackChangesDialog/0.0.1536.834/-1920.0.1920.1050@0.0.1536.834" timestamp="1603283411895" />
+    <state x="553" y="119" key="RollbackChangesDialog/0.0.1536.834@0.0.1536.834" timestamp="1602557206305" />
+    <state x="-1558" y="179" key="SettingsEditor" timestamp="1603687371784">
+      <screen x="-1920" y="0" width="1920" height="1050" />
+    </state>
+    <state x="-1558" y="179" key="SettingsEditor/0.0.1536.834/-1920.0.1920.1050@-1920.0.1920.1050" timestamp="1603687371784" />
     <state x="270" y="62" key="SettingsEditor/0.0.1536.834/-1920.0.1920.1050@0.0.1536.834" timestamp="1601360942812" />
     <state x="270" y="0" key="SettingsEditor/0.0.1536.834@0.0.1536.834" timestamp="1601989858351" />
-    <state x="361" y="150" key="Vcs.Push.Dialog.v2" timestamp="1602986554220">
-      <screen x="0" y="0" width="1536" height="834" />
+    <state x="-1469" y="189" key="Vcs.Push.Dialog.v2" timestamp="1603503192092">
+      <screen x="-1920" y="0" width="1920" height="1050" />
     </state>
-    <state x="-1469" y="189" key="Vcs.Push.Dialog.v2/0.0.1536.834/-1920.0.1920.1050@-1920.0.1920.1050" timestamp="1602469819230" />
+    <state x="-1469" y="189" key="Vcs.Push.Dialog.v2/0.0.1536.834/-1920.0.1920.1050@-1920.0.1920.1050" timestamp="1603503192092" />
     <state x="361" y="150" key="Vcs.Push.Dialog.v2/0.0.1536.834/-1920.0.1920.1050@0.0.1536.834" timestamp="1602986554220" />
     <state x="361" y="150" key="Vcs.Push.Dialog.v2/0.0.1536.834@0.0.1536.834" timestamp="1602557407226" />
     <state x="464" y="163" key="refactoring.ChangeSignatureDialog" timestamp="1602587745021">
