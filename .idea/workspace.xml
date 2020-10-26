@@ -30,8 +30,7 @@
     </configurations>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3e0a286b-46ed-4b32-804a-a49af3876a79" name="Default Changelist" comment="增加了.gitignore 对.idea 和 cmake 配置文件的忽略">
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+    <list default="true" id="3e0a286b-46ed-4b32-804a-a49af3876a79" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -86,6 +85,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="add_unversioned_files" value="true" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="cf.first.check.clang-format" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
@@ -216,6 +216,7 @@
       <workItem from="1603502091330" duration="93000" />
       <workItem from="1603502737855" duration="485000" />
       <workItem from="1603686919738" duration="452000" />
+      <workItem from="1603687384846" duration="377000" />
     </task>
     <task id="LOCAL-00001" summary="move .idea from .gitignore">
       <created>1601360404789</created>
@@ -532,7 +533,14 @@
       <option name="project" value="LOCAL" />
       <updated>1603503188833</updated>
     </task>
-    <option name="localTasksCounter" value="46" />
+    <task id="LOCAL-00046" summary="重新生成.gitignore文件">
+      <created>1603687703984</created>
+      <option name="number" value="00046" />
+      <option name="presentableId" value="LOCAL-00046" />
+      <option name="project" value="LOCAL" />
+      <updated>1603687703984</updated>
+    </task>
+    <option name="localTasksCounter" value="47" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -551,7 +559,6 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="finish sol20" />
     <MESSAGE value="补充了部分注释" />
     <MESSAGE value="finish sol 921" />
     <MESSAGE value="finish sol 1541" />
@@ -576,7 +583,8 @@
     <MESSAGE value="finish sol 10" />
     <MESSAGE value="增加了.gitignore 对.idea 和 cmake 配置文件的忽略" />
     <MESSAGE value="update README.md" />
-    <option name="LAST_COMMIT_MESSAGE" value="update README.md" />
+    <MESSAGE value="重新生成.gitignore文件" />
+    <option name="LAST_COMMIT_MESSAGE" value="重新生成.gitignore文件" />
   </component>
   <component name="WindowStateProjectService">
     <state x="249" y="0" key="#Project_Structure" timestamp="1601360616425">
@@ -595,19 +603,19 @@
       <screen x="0" y="0" width="1536" height="834" />
     </state>
     <state x="899" y="137" key="#xdebugger.evaluate/0.0.1536.834@0.0.1536.834" timestamp="1602502378938" />
-    <state x="-1381" y="0" key="CommitChangelistDialog2" timestamp="1603503188157">
+    <state x="-1381" y="0" key="CommitChangelistDialog2" timestamp="1603687702716">
       <screen x="-1920" y="0" width="1920" height="1050" />
     </state>
-    <state x="-1381" y="0" key="CommitChangelistDialog2/0.0.1536.834/-1920.0.1920.1050@-1920.0.1920.1050" timestamp="1603503188157" />
+    <state x="-1381" y="0" key="CommitChangelistDialog2/0.0.1536.834/-1920.0.1920.1050@-1920.0.1920.1050" timestamp="1603687702716" />
     <state x="431" y="0" key="CommitChangelistDialog2/0.0.1536.834/-1920.0.1920.1050@0.0.1536.834" timestamp="1601360980248" />
     <state x="-1601" y="82" key="DiffContextDialog" timestamp="1603502795881">
       <screen x="-1920" y="0" width="1920" height="1050" />
     </state>
     <state x="-1601" y="82" key="DiffContextDialog/0.0.1536.834/-1920.0.1920.1050@-1920.0.1920.1050" timestamp="1603502795881" />
-    <state x="-1207" y="217" key="FileChooserDialogImpl" timestamp="1603502181959">
+    <state x="-1207" y="217" key="FileChooserDialogImpl" timestamp="1603687759420">
       <screen x="-1920" y="0" width="1920" height="1050" />
     </state>
-    <state x="-1207" y="217" key="FileChooserDialogImpl/0.0.1536.834/-1920.0.1920.1050@-1920.0.1920.1050" timestamp="1603502181959" />
+    <state x="-1207" y="217" key="FileChooserDialogImpl/0.0.1536.834/-1920.0.1920.1050@-1920.0.1920.1050" timestamp="1603687759420" />
     <state x="570" y="172" key="FileChooserDialogImpl/0.0.1536.834@0.0.1536.834" timestamp="1601989640079" />
     <state width="1492" height="229" key="GridCell.Tab.0.bottom" timestamp="1602986577767">
       <screen x="0" y="0" width="1536" height="834" />
