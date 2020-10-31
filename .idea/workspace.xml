@@ -31,7 +31,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="3e0a286b-46ed-4b32-804a-a49af3876a79" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -88,7 +88,7 @@
     <property name="add_unversioned_files" value="true" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="cf.first.check.clang-format" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../course/OS-Course/Exp2_processSchedule" />
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
@@ -99,18 +99,7 @@
       <recent name="solFrom101To200.sol106" />
     </key>
   </component>
-  <component name="RunManager">
-    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
-      <option name="arquillianRunConfiguration">
-        <value>
-          <option name="containerStateName" value="" />
-        </value>
-      </option>
-      <option name="TEST_OBJECT" value="class" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.RandomizedSet">
     <configuration name="RandomizedSet" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="solFrom301To400.sol380.RandomizedSet" />
       <module name="MyLeetCode" />
@@ -177,7 +166,7 @@
       </method>
     </configuration>
   </component>
-  <component name="SpellCheckerSettings" BundledDictionaries="0" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" Dictionaries="0" CorrectionsLimit="5" DefaultDictionary="application-level" UseSingleDictionary="true" />
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -217,6 +206,7 @@
       <workItem from="1603502737855" duration="485000" />
       <workItem from="1603686919738" duration="452000" />
       <workItem from="1603687384846" duration="377000" />
+      <workItem from="1603801722177" duration="31000" />
     </task>
     <task id="LOCAL-00001" summary="move .idea from .gitignore">
       <created>1601360404789</created>
@@ -612,11 +602,11 @@
       <screen x="-1920" y="0" width="1920" height="1050" />
     </state>
     <state x="-1601" y="82" key="DiffContextDialog/0.0.1536.834/-1920.0.1920.1050@-1920.0.1920.1050" timestamp="1603502795881" />
-    <state x="-1207" y="217" key="FileChooserDialogImpl" timestamp="1603687759420">
-      <screen x="-1920" y="0" width="1920" height="1050" />
+    <state x="413" y="167" key="FileChooserDialogImpl" timestamp="1603801751251">
+      <screen x="0" y="0" width="1536" height="834" />
     </state>
     <state x="-1207" y="217" key="FileChooserDialogImpl/0.0.1536.834/-1920.0.1920.1050@-1920.0.1920.1050" timestamp="1603687759420" />
-    <state x="570" y="172" key="FileChooserDialogImpl/0.0.1536.834@0.0.1536.834" timestamp="1601989640079" />
+    <state x="413" y="167" key="FileChooserDialogImpl/0.0.1536.834@0.0.1536.834" timestamp="1603801751251" />
     <state width="1492" height="229" key="GridCell.Tab.0.bottom" timestamp="1602986577767">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
